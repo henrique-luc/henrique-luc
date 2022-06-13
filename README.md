@@ -1,16 +1,6 @@
 Olá! Sou o Henrique Silva 👋
 
-Linkedin: https://www.linkedin.com/in/henrique-silva-front-end/
-
-🖋️ ReactJS | JavaScript | CSS | HTML | API | TypeScript
-
-### 💻 GitHub, Git, GitFlow, Figma, Visual Studio Code
-
-### 🧠 Atualmente me aventurando TypeScript
-
-### 💻 Fiz curso Front-End na Kenzie Academy, onde atuei como Peer Coach (alguém habilitado para auxiliar e orientar no desenvolvimento de outras pessoas). Onde eu obtive muita experiência com projetos em equipe e individuais.  Ainda falando sobre a Kenzie, fiz alguns projetos em equipe onde tive muita vivência em metodologia scrum e Kanban, inclusive atuei como scrum master em um dos projetos)
-
- Meu nome é Henrique, tenho 24 anos, sou uma pessoa LGBTQIA+ e moro na cidade de Araxá-MG.
+ Tenho 24 anos, sou uma pessoa LGBTQIA+ e moro na cidade de Araxá-MG.
 Recentemente eu completei meus estudos em Desenvolvedor Front End pela Kenzie Academy Brasil
 que foi onde começou minha conexão com a área de programação. Desde então me encantei pela
 área de Desenvolvimento Front End.
@@ -27,3 +17,11 @@ End como o próximo passo ideal para a minha carreira. Nessa posição, eu esper
 me desenvolver ainda mais profissionalmente e alcançar meu objetivo de me tornar um
 Desenvolvedor Front End Pleno. Sinto-me pronto para trabalhar na área e estou disposto a aprender
 sempre novas tecnologias e ferramentas para aprimorar meu conhecimento.
+
+Linkedin: https://www.linkedin.com/in/henrique-silva-front-end/
+
+### 🖋️ ReactJS | JavaScript | CSS | HTML | API | TypeScript
+
+### 💻 GitHub, Git, GitFlow, Figma, Visual Studio Code
+
+### 🧠 Atualmente me aventurando TypeScript
