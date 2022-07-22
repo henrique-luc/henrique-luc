@@ -23,4 +23,6 @@ Tenho 24 anos, sou uma pessoa LGBTQIA+ e moro na cidade de Araxá-MG. Sou Desenv
   <a href="https://www.linkedin.com/in/henrique-silva-front-end" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://wa.me/5534998269012"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "https://portifolio-henrique-silva.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+   
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
