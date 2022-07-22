@@ -8,6 +8,8 @@ Tenho 24 anos, sou uma pessoa LGBTQIA+ e moro na cidade de Araxá-MG. Sou Desenv
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-luc&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
+ ##
+  
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
