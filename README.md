@@ -1,6 +1,6 @@
 Olá! Sou o Henrique Silva 👋
 
-Tenho 24 anos, sou uma pessoa LGBTQIA+ e moro na cidade de Araxá-MG. Sou Desenvolvedor Front End certificado pela Kenzie Academy Brasil!
+Tenho 25 anos e moro na cidade de Araxá-MG. Sou Desenvolvedor Front End certificado pela Kenzie Academy Brasil!
 
 <div align="center">
   <a href="https://portifolio-henrique-silva.vercel.app/">
